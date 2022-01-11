@@ -1,6 +1,7 @@
 title: Liv Yoga
 logo: /assets/img/logo.png
 description: Yoga for everyone
+show_downloads: "false"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
